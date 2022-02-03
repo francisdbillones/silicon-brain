@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "466bd9bab9dd0fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1ae44a4a5d42ee5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a1bdfb71d2aa77b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0608b22818c3124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b438a1c2fcb1c6c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dba9bfac16b37860",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3849fc4e3740ae88",
+    "type": "split",
+    "children": [
+      {
+        "id": "6055b93140c01213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284cbcb0e29cf1e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "833a5813c57ea997",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b1ae44a4a5d42ee5",
+  "lastOpenFiles": [
+    "Philippine Government.md",
+    "Silicon Brain/Philippine Legislature.md",
+    "Untitled.md",
+    "Silicon Brain/Fast membership testing using nearest prime hashes.md"
+  ]
+}

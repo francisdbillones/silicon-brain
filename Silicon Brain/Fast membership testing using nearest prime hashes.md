@@ -1,0 +1,1 @@
+Maintain an integer n = 1, and for each element that you want to add to a set, compute the hash of that element and take the nearest prime number to it. Multiply the integer n by the prime number. To do membership testing, simply check if n is divisible by the nearest prime of the hash of the element you want to test the membership of.

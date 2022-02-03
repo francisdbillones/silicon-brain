@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "a1c1b230ac6b8eb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cad993116506176",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Systems of linear equations.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c207498c09424678",
+    "type": "split",
+    "children": [
+      {
+        "id": "11cac96bd9a0d94b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f232a7b84884f0ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d3bd430d38bac10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "congress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224,
+    "collapsed": true
+  },
+  "right": {
+    "id": "37a9340c2a0c0f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71a0c3bcd25ec294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9902e12ad6e069ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Systems of linear equations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5128613740c50e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Systems of linear equations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "43cbbdb0de759e23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2cad993116506176",
+  "lastOpenFiles": [
+    "Systems of linear equations.md",
+    "Linear dependence.md",
+    "Vectors.md",
+    "Linear algebra.md",
+    "Vector spaces.md",
+    "Abstract algebra.md",
+    "Algebra.md",
+    "Elementary Algebra.md",
+    "Philippine Judiciary.md",
+    "Philippine Supreme Court.md"
+  ]
+}
