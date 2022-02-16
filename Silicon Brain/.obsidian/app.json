@@ -2,5 +2,9 @@
   "legacyEditor": false,
   "livePreview": true,
   "attachmentFolderPath": "assets",
-  "spellcheck": true
+  "spellcheck": true,
+  "vimMode": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b1ae44a4a5d42ee5",
+        "id": "00f556dfdeb4d169",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3849fc4e3740ae88",
@@ -94,7 +95,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1ae44a4a5d42ee5",
+  "active": "00f556dfdeb4d169",
   "lastOpenFiles": [
     "Philippine Government.md",
     "Silicon Brain/Philippine Legislature.md",

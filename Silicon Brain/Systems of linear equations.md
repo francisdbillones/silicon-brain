@@ -12,37 +12,71 @@ A system of linear equations is solvable if it is
 $$
 \begin{align}
 c_{1,1} \cdot x + c_{1, 2} \cdot y + ... + c_{1, i} \cdot z = a_1 \\
-c_{2,1} \cdot x + c_{2, 1} \cdot y + ... + c_{2, i} \cdot z = a_2 \\
+c_{2,1} \cdot x + c_{2, 2} \cdot y + ... + c_{2, i} \cdot z = a_2 \\
 \vdots \\
 c_{j, 1} \cdot x + c_{j, 2} \cdot y + ... + c_{j, i} \cdot z = a_j
 \end{align}
 $$
-To a matrix and vector as follows:
-$$
-A = 
-\begin{bmatrix}
-c_{1, 1} & c_{1, 2} & ... & c_{1, i} \\
-c_{2, 1} & c{_2, 2} & ... & c_{2, i} \\
-\vdots & \vdots & & \vdots\\
-c_{j, 1} & c_{j, 2} & ... & c{j, i}
-\end{bmatrix}
-v =
-\begin{bmatrix}
-a_1 \\
-a_2 \\ 
-\vdots\\
-a_j
-\end{bmatrix}
-$$
-And then, we simply solve for  the vector $x$  (which contains our solutions) in the following equation:
+     To a series of vector scalar multiplications:
+	$$
+	\begin{bmatrix}
+	c_{1, 1} \\
+	c_{2, 1} \\
+	\vdots \\
+	c_{j, 1}
+	\end{bmatrix}x
+	+
+	\begin{bmatrix}
+	c_{1, 2} \\
+	c_{2, 2} \\
+		\vdots \\
+		c_{j, 2}
+	\end{bmatrix}y
+	+
+	\cdots
+	+
+	\begin{bmatrix}
+	c_{1, i} \\
+	c_{2, i} \\
+	\vdots \\
+	c_{j, i}
+	\end{bmatrix}z
+	=
+	\begin{bmatrix}
+	a_1 \\
+	a_2 \\
+	\vdots \\
+	a_j
+	\end{bmatrix}
+	$$
+	This fits the definition of a [[Matrices#^dc9aff|matrix multiplication]]:
+	$$
 
-$$
-Ax = v
-$$
-Which we can do easily by multiplying by the inverse matrix:
-$$
-\begin{align}
-A^{-1}Ax = A^{-1}v \\
-x = A^{-1}v
-\end{align}
-$$
+	\begin{bmatrix}
+	c_{1, 1} & c_{1, 2} & ... & c_{1, i} \\
+	c_{2, 1} & c_{2, 2} & ... & c_{2, i} \\
+	\vdots & \vdots & & \vdots\\
+	c_{j, 1} & c_{j, 2} & ... & c{j, i}
+	\end{bmatrix}
+	\begin{bmatrix}
+	x \\
+	y \\
+	\vdots \\
+	z
+	\end{bmatrix}
+
+	=
+	\begin{bmatrix}
+	a_1 \\
+	a_2 \\ 
+	\vdots\\
+	a_j
+	\end{bmatrix}
+	$$
+	And then we simply solve for the vector $[x, y, \cdots, z]$, which we can do easily by multiplying by the inverse matrix:
+	$$
+	\begin{align}
+	A^{-1}Ax = A^{-1}v \\
+	x = A^{-1}v
+	\end{align}
+	$$

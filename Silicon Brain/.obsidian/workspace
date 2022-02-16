@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2cad993116506176",
+        "id": "58e5e1cef0ffde21",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Systems of linear equations.md",
+            "file": "Prism.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "congress",
+                "query": "Total area",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224,
-    "collapsed": true
+    "width": 224
   },
   "right": {
     "id": "37a9340c2a0c0f5f",
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems of linear equations.md",
+                "file": "Prism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems of linear equations.md",
+                "file": "Prism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -105,25 +105,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "2cad993116506176",
+  "active": "58e5e1cef0ffde21",
   "lastOpenFiles": [
-    "Systems of linear equations.md",
-    "Linear dependence.md",
-    "Vectors.md",
-    "Linear algebra.md",
-    "Vector spaces.md",
-    "Abstract algebra.md",
-    "Algebra.md",
-    "Elementary Algebra.md",
-    "Philippine Judiciary.md",
-    "Philippine Supreme Court.md"
+    "Prism.md",
+    "assets/Pyramid_2022-02-16 16.36.55.excalidraw.md",
+    "Pyramid.md",
+    "Sphere.md",
+    "Cylinder.md",
+    "Circular cone.md",
+    "assets/Cylinder_2022-02-16 14.13.03.excalidraw.md",
+    "Net.md",
+    "assets/Net_2022-02-16 16.55.18.excalidraw.md",
+    "assets/Net_2022-02-16 16.53.37.excalidraw.md"
   ]
 }
