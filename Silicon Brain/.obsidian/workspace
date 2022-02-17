@@ -7,8 +7,13 @@
         "id": "58e5e1cef0ffde21",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Crash Course Session 1.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Crash Course Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Crash Course Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +114,7 @@
   },
   "active": "58e5e1cef0ffde21",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Crash Course Session 1.md",
     "Fast membership testing using nearest prime hashes.md",
     "Prism.md",
     "assets/Pyramid_2022-02-16 16.36.55.excalidraw.md",
