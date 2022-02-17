@@ -10,3 +10,19 @@ From a computer science point of view, a vector is simply an array of numbers. I
 What are [[Matrices|matrices]]?
 
 Matrices are 2D arrays of numbers. You can think of them as a vector of vectors.
+
+Matrices represent linear transforms because they represent base vectors
+
+#### 5 minutes: explain calculus
+What is a derivative?
+
+Derivative is the rate of change of a function with respect to a variable.
+
+### 20 minutes: explain how neural networks work
+Use basic feed forward neural network as a teaching tool.
+
+What is a neuron in an FNN?
+A neuron is simply a weight and a bias.
+
+What is a layer?
+A layer is 
