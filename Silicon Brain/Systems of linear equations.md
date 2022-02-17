@@ -55,7 +55,7 @@ $$
 	\begin{bmatrix}
 	c_{1, 1} & c_{1, 2} & ... & c_{1, i} \\
 	c_{2, 1} & c_{2, 2} & ... & c_{2, i} \\
-	\vdots & \vdots & & \vdots\\
+	\vdots & \vdots & \ddots & \vdots\\
 	c_{j, 1} & c_{j, 2} & ... & c{j, i}
 	\end{bmatrix}
 	\begin{bmatrix}
