@@ -30,7 +30,7 @@ A layer is a group of neurons.
 A layer can be thought of as a matrix.
 
 ##### What is a loss function?
-A loss function is a function that takes in desired output and actual output, and outputs a number representing how wrong the actual output was from desired output.
+A loss function is a function that takes in desired output and actual output, and outputs how wrong the actual output is from the desired output.
 
 **Explain backpropagation.**
 Backpropagation is an algorithm that calculates the gradients of each layer and each neuron, using derivatives.
@@ -42,9 +42,15 @@ Gradient descent is an algorithm that uses these gradients to modify the weights
 network = Network()
 input = ...
 desired_output = ...
+epochs = 100
+learning_rate = 0.01
 
-while True:
+for epoch in range(epochs):
 	actual_output = network(input)
 	loss = loss_function(actual_output, desired_output)
-	gradients = backprop(network, loss)
+	gradients = backprop(loss, model, loss_function)
+	model.weights -= learning_rate * gradients
 ```
+
+### 30 minutes: explain the various architectures
+explain RNN
