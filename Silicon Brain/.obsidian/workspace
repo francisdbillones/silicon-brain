@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crash Course Session 1.md",
+            "file": "SS Recitation Cheatsheet.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crash Course Session 1.md",
+                "file": "SS Recitation Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crash Course Session 1.md",
+                "file": "SS Recitation Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,6 +114,7 @@
   },
   "active": "58e5e1cef0ffde21",
   "lastOpenFiles": [
+    "SS Recitation Cheatsheet.md",
     "Crash Course Session 1.md",
     "Systems of linear equations.md",
     "Fast membership testing using nearest prime hashes.md",
@@ -122,7 +123,6 @@
     "Pyramid.md",
     "Sphere.md",
     "Cylinder.md",
-    "Circular cone.md",
-    "assets/Cylinder_2022-02-16 14.13.03.excalidraw.md"
+    "Circular cone.md"
   ]
 }
