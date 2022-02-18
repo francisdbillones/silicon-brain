@@ -17,7 +17,7 @@
 	- Examples: Suffrage (right to vote), right to protest
 2. **Civil rights** - rights defining the interactions between private individuals
 	- Examples: Right to buy and sell
-3. **Social and economic rights** - rights concerning the economic security of each citizen
+3. **Social and economic rights** - rights concerning the well-being and economic security of each citizen
 	- Examples: right to basic health care, right to minimum wage
 4. **Rights of the accused** - rights concerning the treatment and abilities of those accused of crimes
 	- Examples: right to remain silent, right to have competent legal counsel
