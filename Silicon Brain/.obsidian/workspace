@@ -7,8 +7,13 @@
         "id": "43fd705c82fb06eb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Prism.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,12 +114,12 @@
   },
   "active": "43fd705c82fb06eb",
   "lastOpenFiles": [
+    "Prism.md",
     "SS Recitation Cheatsheet.md",
     "Philippine Judiciary.md",
     "Crash Course Session 1.md",
     "Systems of linear equations.md",
     "Fast membership testing using nearest prime hashes.md",
-    "Prism.md",
     "assets/Pyramid_2022-02-16 16.36.55.excalidraw.md",
     "Pyramid.md",
     "Sphere.md",
