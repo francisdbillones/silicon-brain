@@ -1,4 +1,4 @@
-## Definition
+a## Definition
 A prism is a [[Polyhedron|polyhedron]] which 2 congruent and parallel faces (called bases), which are connected by [[Parallelograms|parallelograms]].
 
 ![[Prism_2022-02-16 13.50.43.excalidraw]]

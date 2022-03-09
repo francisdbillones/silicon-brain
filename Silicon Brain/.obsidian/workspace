@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prism.md",
+            "file": "Sphere.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prism.md",
+                "file": "Sphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prism.md",
+                "file": "Sphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,6 +114,7 @@
   },
   "active": "43fd705c82fb06eb",
   "lastOpenFiles": [
+    "Sphere.md",
     "Prism.md",
     "SS Recitation Cheatsheet.md",
     "Philippine Judiciary.md",
@@ -122,7 +123,6 @@
     "Fast membership testing using nearest prime hashes.md",
     "assets/Pyramid_2022-02-16 16.36.55.excalidraw.md",
     "Pyramid.md",
-    "Sphere.md",
     "Cylinder.md"
   ]
 }
