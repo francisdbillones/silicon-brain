@@ -15,16 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "18f8720363573607",
-        "type": "leaf",
-        "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
+                "file": "Trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
+                "file": "Trigonometric functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,10 +112,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18f8720363573607",
+  "active": "d149063d55905905",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
     "Trigonometric functions.md",
+    "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
     "assets/Trigonometric functions_2022-03-16 14.46.59.excalidraw.md",
     "Sphere.md",
     "Prism.md",
