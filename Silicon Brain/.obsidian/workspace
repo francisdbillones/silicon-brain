@@ -15,6 +15,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "18f8720363573607",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric functions.md",
+                "file": "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric functions.md",
+                "file": "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d149063d55905905",
+  "active": "18f8720363573607",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
     "Trigonometric functions.md",
     "assets/Trigonometric functions_2022-03-16 14.46.59.excalidraw.md",
     "Sphere.md",
@@ -122,7 +133,6 @@
     "Philippine Judiciary.md",
     "Crash Course Session 1.md",
     "Systems of linear equations.md",
-    "Fast membership testing using nearest prime hashes.md",
-    "assets/Pyramid_2022-02-16 16.36.55.excalidraw.md"
+    "Fast membership testing using nearest prime hashes.md"
   ]
 }
