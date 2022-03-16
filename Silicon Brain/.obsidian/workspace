@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sphere.md",
+            "file": "Trigonometric functions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Total area",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sphere.md",
+                "file": "Trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sphere.md",
+                "file": "Trigonometric functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,6 +114,7 @@
   },
   "active": "43fd705c82fb06eb",
   "lastOpenFiles": [
+    "Trigonometric functions.md",
     "Sphere.md",
     "Prism.md",
     "SS Recitation Cheatsheet.md",
@@ -122,7 +123,6 @@
     "Systems of linear equations.md",
     "Fast membership testing using nearest prime hashes.md",
     "assets/Pyramid_2022-02-16 16.36.55.excalidraw.md",
-    "Pyramid.md",
-    "Cylinder.md"
+    "Pyramid.md"
   ]
 }
