@@ -11,7 +11,7 @@ From a computer science point of view, a vector is simply an array of numbers. I
 
 Matrices are 2D arrays of numbers. You can think of them as a vector of vectors.
 
-Matrices represent linear transforms because they represent base vectors
+Matrices represent linear transforms because they represent base vectors.
 
 #### 5 minutes: explain calculus
 **What is a derivative?**

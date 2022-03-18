@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trigonometric functions.md",
+            "file": "Crash Course Session 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trigonometric functions.md",
+                "file": "Crash Course Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trigonometric functions.md",
+                "file": "Crash Course Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,14 +114,14 @@
   },
   "active": "d149063d55905905",
   "lastOpenFiles": [
+    "Crash Course Session 1.md",
+    "assets/Trigonometric functions_2022-03-16 14.46.59.excalidraw.md",
     "Trigonometric functions.md",
     "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
-    "assets/Trigonometric functions_2022-03-16 14.46.59.excalidraw.md",
     "Sphere.md",
     "Prism.md",
     "SS Recitation Cheatsheet.md",
     "Philippine Judiciary.md",
-    "Crash Course Session 1.md",
     "Systems of linear equations.md",
     "Fast membership testing using nearest prime hashes.md"
   ]
