@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crash Course Session 1.md",
+            "file": "Trigonometric functions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crash Course Session 1.md",
+                "file": "Trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crash Course Session 1.md",
+                "file": "Trigonometric functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,9 +114,9 @@
   },
   "active": "d149063d55905905",
   "lastOpenFiles": [
+    "Trigonometric functions.md",
     "Crash Course Session 1.md",
     "assets/Trigonometric functions_2022-03-16 14.46.59.excalidraw.md",
-    "Trigonometric functions.md",
     "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
     "Sphere.md",
     "Prism.md",
