@@ -16,27 +16,27 @@ excalidraw-plugin: parsed
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "I4hAjjSUFy-xBnoTrZi8t",
 			"type": "freedraw",
-			"x": -349.5,
-			"y": -242,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 3,
+			"versionNonce": 552811442,
+			"isDeleted": false,
+			"id": "I4hAjjSUFy-xBnoTrZi8t",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -349.5,
+			"y": -242,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 93145586,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 93145586,
-			"version": 3,
-			"versionNonce": 552811442,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1647928623132,
 			"link": null,
 			"points": [
@@ -49,12 +49,9 @@ excalidraw-plugin: parsed
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		}
 	],
 	"appState": {

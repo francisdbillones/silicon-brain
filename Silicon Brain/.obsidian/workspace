@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d149063d55905905",
+        "id": "b5b03d81329775ea",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "assets/Fast fourier transform (FFT)_2022-03-22 10.22.28.excalidraw.md"
+            "file": "Ohm's law.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -68,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Fast fourier transform (FFT)_2022-03-22 10.22.28.excalidraw.md",
+                "file": "Ohm's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Fast fourier transform (FFT)_2022-03-22 10.22.28.excalidraw.md",
+                "file": "Ohm's law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d149063d55905905",
+  "active": "b5b03d81329775ea",
   "lastOpenFiles": [
-    "assets/Fast fourier transform (FFT)_2022-03-22 10.22.28.excalidraw.md",
+    "Ohm's law.md",
     "Fast fourier transform (FFT).md",
+    "assets/Fast fourier transform (FFT)_2022-03-22 10.22.28.excalidraw.md",
     "Trigonometric functions.md",
     "Crash Course Session 1.md",
     "assets/Trigonometric functions_2022-03-16 14.46.59.excalidraw.md",
     "Excalidraw/Drawing 2022-03-16 18.15.28.excalidraw.md",
     "Sphere.md",
     "Prism.md",
-    "SS Recitation Cheatsheet.md",
-    "Philippine Judiciary.md"
+    "SS Recitation Cheatsheet.md"
   ]
 }
